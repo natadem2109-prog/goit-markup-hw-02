@@ -1,5 +1,6 @@
 body{font-family: Roboto, sans-serif;
-color: #434455; background-color: #fff;
+color: #434455; 
+background-color: #fff;
 }
 ul, ol{list-style-type: none;}
 a{text-decoration: none;}
@@ -31,7 +32,7 @@ a{text-decoration: none;}
 .main-title{
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff; background-color: #2e2f42;
@@ -51,17 +52,21 @@ a{text-decoration: none;}
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;}
 .block-text{font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF;
     color: #434455;}
 .section-title{font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+    background-color: #f4f4fd;
     color: #2e2f42;}
 .text-center{text-align: center;}
 .page-footer{background-color: #2e2f42;}
