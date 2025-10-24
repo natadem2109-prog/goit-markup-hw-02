@@ -47,7 +47,8 @@ a{text-decoration: none;}
     letter-spacing: 0.04em;
     color: #fff;
 }
-.btn:hover{background-color : #404bbf;}
+.btn:hover, 
+.btn:focus{background-color : #404bbf;}
 .block-title{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -60,6 +61,7 @@ a{text-decoration: none;}
     letter-spacing: 0.02em;
     color: #434455;}
 .team{background-color: #F4F4FD;}
+.tiam-item{background-color: #FFFFFF;}
 .section-title{font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
