@@ -31,13 +31,14 @@ a{text-decoration: none;}
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus{color: #404bbf;}
+.hero{background-color: #2e2f42;}
 .main-title{
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff; background-color: #2e2f42;
+    color: #fff; 
 }
 .btn{box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
@@ -61,13 +62,13 @@ a{text-decoration: none;}
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
+.team{background-color: #F4F4FD;}
 .section-title{font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
-    background-color: #f4f4fd;
     color: #2e2f42;}
 .text-center{text-align: center;}
 .page-footer{background-color: #2e2f42;}
